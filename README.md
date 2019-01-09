@@ -2,7 +2,7 @@
 Getting and Cleaning Data project Dataset
 Version 1.0
 ==================================================================
-Andres Glavina.
+Andres Glavina. (modificado)
 ==================================================================
 
 This document describes how the script works and also includes the code book describing the variables.

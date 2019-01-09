@@ -4,7 +4,7 @@ Version 1.0
 
 
 ==================================================================
-Andres Glavina.
+Andres Glavina. Betina
 ==================================================================
 
 This document describes how the script works and also includes the code book describing the variables.
